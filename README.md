@@ -12,6 +12,9 @@ The reference model repositories can be found here:
 - [Fluvoxamine OSP PBPK model](https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Model)
 - Caffeine model from PK-Sim template database has been used
 
+## Contacts
+For your questions and comments about the models please create a new [issue](https://github.com/Open-Systems-Pharmacology/Fluvoxamine-Caffeine-DDI/issues). A full publication about models presented is available at: https://www.mdpi.com/1999-4923/12/12/1191 .
+
 ## Code of conduct
 
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
